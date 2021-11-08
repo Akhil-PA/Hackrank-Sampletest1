@@ -1,0 +1,14 @@
+C:\Users\Akhil Antony\source\repos\hackrank sample test\hackrank sample test\bin\Debug\netcoreapp3.1\hackrank sample test.exe
+C:\Users\Akhil Antony\source\repos\hackrank sample test\hackrank sample test\bin\Debug\netcoreapp3.1\hackrank sample test.deps.json
+C:\Users\Akhil Antony\source\repos\hackrank sample test\hackrank sample test\bin\Debug\netcoreapp3.1\hackrank sample test.runtimeconfig.json
+C:\Users\Akhil Antony\source\repos\hackrank sample test\hackrank sample test\bin\Debug\netcoreapp3.1\hackrank sample test.runtimeconfig.dev.json
+C:\Users\Akhil Antony\source\repos\hackrank sample test\hackrank sample test\bin\Debug\netcoreapp3.1\hackrank sample test.dll
+C:\Users\Akhil Antony\source\repos\hackrank sample test\hackrank sample test\bin\Debug\netcoreapp3.1\hackrank sample test.pdb
+C:\Users\Akhil Antony\source\repos\hackrank sample test\hackrank sample test\obj\Debug\netcoreapp3.1\hackrank sample test.csproj.AssemblyReference.cache
+C:\Users\Akhil Antony\source\repos\hackrank sample test\hackrank sample test\obj\Debug\netcoreapp3.1\hackrank sample test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akhil Antony\source\repos\hackrank sample test\hackrank sample test\obj\Debug\netcoreapp3.1\hackrank sample test.AssemblyInfoInputs.cache
+C:\Users\Akhil Antony\source\repos\hackrank sample test\hackrank sample test\obj\Debug\netcoreapp3.1\hackrank sample test.AssemblyInfo.cs
+C:\Users\Akhil Antony\source\repos\hackrank sample test\hackrank sample test\obj\Debug\netcoreapp3.1\hackrank sample test.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Antony\source\repos\hackrank sample test\hackrank sample test\obj\Debug\netcoreapp3.1\hackrank sample test.dll
+C:\Users\Akhil Antony\source\repos\hackrank sample test\hackrank sample test\obj\Debug\netcoreapp3.1\hackrank sample test.pdb
+C:\Users\Akhil Antony\source\repos\hackrank sample test\hackrank sample test\obj\Debug\netcoreapp3.1\hackrank sample test.genruntimeconfig.cache
